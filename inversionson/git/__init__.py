@@ -84,4 +84,3 @@ class Git:
             return output[0]
         else:
             return None
-
