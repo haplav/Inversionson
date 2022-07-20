@@ -1,6 +1,6 @@
 import os, shutil
 from pathlib import Path
-from __init__ import Git
+from git import Git
 
 def _test():
 
